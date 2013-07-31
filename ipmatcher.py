@@ -40,6 +40,6 @@ def match_IP(IP_Check):
 
 if __name__ == '__main__':
     if len(sys.argv) != 2:
-        print "Usage: Match an IP Address to its associated nicks"
+        print "Usage: [IP address]"
         sys.exit(1)
     match_IP(sys.argv[1])
