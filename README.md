@@ -6,7 +6,7 @@ and prints out the matches. Tested with mIRC and XChat log formats.
 
 Config
 ------
-Open the logpath file in the text editor of your choice and enter the path in which your IRC log resides.
+Open the logpath file in the text editor of your choice and enter the path to your IRC log.
 
 Usage
 -----
