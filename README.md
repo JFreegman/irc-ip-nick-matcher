@@ -14,4 +14,4 @@ Usage
 
 Author
 ------
-Stuart Banks Jfreegman@gmail.com
+JFreegman (Jfreegman@gmail.com)
