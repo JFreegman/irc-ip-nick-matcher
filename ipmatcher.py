@@ -2,7 +2,7 @@
 
 # irc-ip-nick-matcher 
 # version: 0.1
-# Author: Stuart Banks (JFreegman@gmail.com)
+# Author: JFreegman (JFreegman@gmail.com)
 # License: GPLv3
 
 import re
