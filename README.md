@@ -14,4 +14,4 @@ Usage
 
 Author
 ------
-JFreegman <Jfreegman [at] gmail [dot] com>
+JFreegman (Jfreegman [at] gmail [dot] com)
