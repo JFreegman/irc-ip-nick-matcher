@@ -10,8 +10,8 @@ Open the logpath file in the text editor of your choice and enter the path to yo
 
 Usage
 -----
-./ipmatcher.py name@cloak-123456.words.morewords.an-isp.net
+./ipmatcher.py <IP address/cloak>
 
 Author
 ------
-JFreegman (Jfreegman@gmail.com)
+JFreegman <Jfreegman [at] gmail [dot] com>
